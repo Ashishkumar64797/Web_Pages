@@ -9,15 +9,6 @@ body {
     background: #053a3d;
 }
 
-h2{
-    text-align: center;
-    font-size: 18px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    color: white;
-    padding: 30px 0;
-}
-
 .container {
     margin: 80px 70px 70px ;
     box-shadow: 0px 35px 50px rgba(0, 0, 0, 0.2 );
